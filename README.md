@@ -28,20 +28,7 @@
 - 😄 Pronouns: ... We/Us
 - ⚡ Fun fact: ... I am batman. 😎🦇 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ManishTimsina&theme=gruvbox" alt="ManishTimsina"  /></p>
 
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishTimsina&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ManishTimsina" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ManishTimsina&show_icons=true&locale=en&theme=gruvbox" alt="ManishTimsina" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishTimsina&theme=gruvbox&hide_border=true&area=true)
 
 ## 🛠️ My Skills
 
