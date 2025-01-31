@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/ManishTimsina/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/ManishTimsina.svg?style=social&label=Followers)](https://github.com/ManishTimsina?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Manish!;I'm+a+student...;And+I'm+a+proud+Nepali+np)](https://git.io/typing-svg)
 
