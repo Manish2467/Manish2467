@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Manish!;I'm+a+student...;And+I'm+a+proud+Nepali+np)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=+It's+Manish!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ManishTimsina&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
